@@ -20,27 +20,19 @@ Insights into model generalization for broader sports analytics applications (e.
 
 📚 **Technologies Used**
 -Python 3.9+
+
 -TensorFlow / PyTorch
+
 -NumPy, Pandas
+
 -Scikit-learn
+
 -Matplotlib, Seaborn
+
 -Google Colab
 
 
-📁 data/
-    - Processed datasets (1985-2025 NCAA tournaments)
-📁 models/
-    - LSTM_Model.py
-    - BiLSTM_Model.py
-    - TCN_Model.py
-📁 notebooks/
-    - EDA.ipynb (Exploratory Data Analysis)
-    - Model_Training.ipynb (Training all models)
-    - Evaluation.ipynb (Model performance comparison)
-📁 utils/
-    - preprocessing.py (Data preparation and feature engineering)
-    - metrics.py (Custom evaluation metrics)
-📄 README.md
+
 
 
 
