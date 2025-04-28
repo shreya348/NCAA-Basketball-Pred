@@ -72,6 +72,7 @@ Key takeaways:
 
 By moving beyond static statistics and traditional machine learning models, deep learning can bring greater objectivity, reproducibility, and insight to sports analytics.
 
+Dataset can be accessed using the link: https://drive.google.com/drive/folders/1qfTah8HQeHlZ_H8AhMelZqAips3vvlS5?usp=drive_link
 
 
 
